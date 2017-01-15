@@ -1,0 +1,4 @@
+TO RUN:
+First, in the directory that you have cloned this repository to, run npm install.
+
+Then, run the grunt command. Then set up a simple HTML server with python or something, and you're good to go!
